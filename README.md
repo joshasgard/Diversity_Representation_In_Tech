@@ -18,4 +18,4 @@
 
 
 
-## Licensing, Authors and Acknowledgements
+## Authors and Acknowledgements
