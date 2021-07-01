@@ -22,7 +22,13 @@ The only package required to run the code is the Anaconda Distribution of Python
 
 
 ## Results
-You can find the result of the analysis in my medium blog post here. 
+In the end, I found that:
+
+a. Native American, Pacific Islander, or Indigenous Australian and White or European developers earn more than everyone else while South Asians earn the least.
+b. Students learning to code that are of White or European and East Asian ancestries have higher salary expectations than every other ethnic group. 
+c. Developers with a parent having at least a Bachelor's degree generally tend to earn more than developers whose parents are less educated.
+
+You can find more details about the result in my medium blog post here. 
 
 
 
