@@ -28,7 +28,7 @@ a. Native American, Pacific Islander, or Indigenous Australian and White or Euro
 b. Students learning to code that are of White or European and East Asian ancestries have higher salary expectations than every other ethnic group. 
 c. Developers with a parent having at least a Bachelor's degree generally tend to earn more than developers whose parents are less educated.
 
-You can find more details about the result in my medium blog post here. 
+You can find more details about the result in my medium blog post <a href= https://idowuodesanmi.medium.com/is-this-why-you-earn-less-than-your-colleagues-79d9639f651a>here</a>. 
 
 
 
