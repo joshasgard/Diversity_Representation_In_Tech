@@ -1,5 +1,5 @@
 # Diversity_RepresentationInTech
-![1_aOZcQpE9cALSIEgm6OUeJg](https://user-images.githubusercontent.com/67300602/124049839-3e552a00-da11-11eb-930b-3fcbc31024c2.png)
+![60df04928d2b6](https://user-images.githubusercontent.com/67300602/124380757-65805580-dcb6-11eb-8124-46fa5b523009.jpg)
 
 ## Introduction
 * The goal is to examine the relationship between family background, race and the current income of developers in the tech industry around the world. For that purpose, three (3) questions were posed and answered: </br>
@@ -9,6 +9,7 @@
     3. Are you likely to earn more if either of your parents graduated from college?
         
 * The dataset used is the 2017 Stack Overflow Annual Developer Survey results. Visit this <a href=https://insights.stackoverflow.com/survey/2017> page </a> for all the information concerning the data gathering technique, the questions and respondents. 
+![1_aOZcQpE9cALSIEgm6OUeJg](https://user-images.githubusercontent.com/67300602/124049839-3e552a00-da11-11eb-930b-3fcbc31024c2.png)
 * Special attention was paid to Cross-Industry Standard Process for Data Mining (CRISP-DM) in the analysis
 
 ## Installations 
